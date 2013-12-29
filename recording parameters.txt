@@ -1,0 +1,31 @@
+Mixer settings
+
+INDIVIDUAL CHANNEL CONFIGURATION SECTION
+
+ name         gain         eq/hi eq/mid  eq/lo alt 3-4    volume
+Barrel        zero          +0     +0     +0     ON       -5.25
+Drums        center         +0     +0     +0     ON         +0
+Guitar  avg(zero; center)   +0     -9     -6     ON       +5.75
+Voice   avg(zero; center)   +0     +0     +0     OFF     -10+eps
+
+C/R SOURCE / ASSIGN SECTION
+
+       name        value
+Main mix            ON
+Alt 3-4             ON
+Tape                OFF
+Assign to main mix  OFF
+
+MASTER MIXER CONFIGURATION SECTION
+
+       name        value
+Ctl room/submix     0 dB
+Main mix            0 dB
+
+SOFTWARE MIC CONFIGURATION SECTION
+
+Volume: 17% (-46 dB)
+
+GUITAR AMPLIFIER CONFIGURATION SECTION
+
+gain zero
