@@ -1,0 +1,34 @@
+The GPU shall die
+
+I want it die I need its death
+It hides behind the interface
+I write aperture with no care
+The code is wrong, so is hardware
+
+Requests together I don't lace
+The bus is full, no cache erase
+Threads forewarn interrupts' pace
+The overheat will take its place
+
+I made first launch
+I have the code
+I break pipelines
+I build its death
+
+The core was fine but now it's not
+Just more textures to rot
+Discard and retransmit again:
+No single bit nor clock for them
+
+No more contexts I can't cast
+The power source attempts its last
+Able to stop, but killed instead
+I rendered frame and now it's dead
+
+I made first launch
+I have the code
+I break pipelines
+I build its death
+
+----
+Inspired by Mesa 8.0.1 building error messages and Overseer - Doomsday.
